@@ -4,3 +4,6 @@ This project demonstrates how to perform sales forecasting using time series ana
 ![image](https://github.com/user-attachments/assets/fae6ac86-c884-4bdb-b605-8aafea1ec652)
 predictes sales
 
+![image](https://github.com/user-attachments/assets/c00c5ebe-0c12-4bf7-9288-db88a9ca5bdc) Prediction for next 5 years
+
+
